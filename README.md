@@ -1,0 +1,11 @@
+# PHP3-KhairisGhifariyLubabah
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Latihan%201.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Latihan%202.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Latihan%203.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Latihan%204.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Latihan%205.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Latihan%206.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Praktikum1.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Praktikum2.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Praktikum3.JPG)
+![alt text](https://github.com/KGLubabah/PHP3-KhairisGhifariyLubabah/blob/master/Hasil%203/Praktikum4.JPG)
